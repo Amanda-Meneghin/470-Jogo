@@ -30,9 +30,14 @@ Nenhum Leiame deve contar:
 - <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/Sinopse-geral">Sinopse geral</a>
 
 ## Descrição das fases
-
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/1-Fase">1 Fase</a>
+- <a hrerf="https://github.com/Amanda-Meneghin/470-Jogo/wiki/2-Fase">2 Fase</a>
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/3-Fase">3 Fase</a>
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/4-Fase">4 Fase</a>
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/5-Fase">5 Fase</a>
 
 ## Músicas
-
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/M%C3%BAsicas-que-ser%C3%A3o-usadas">Músicas que serão usadas</a>
 
 ## Referências
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/Refer%C3%AAncias-para-o-jogo">Referências para o jogo</a>
