@@ -21,6 +21,9 @@ Nenhum Leiame deve contar:
 - Música(s) de referência. As músicas devem falar sobre São Paulo, ou ser de significado de artistas de São Paulo, ou ter relevância para a região da fase
 - Referências para o Jogo (filmes, séries, jogos, livros)
 
-  # Lista de Wiki
+# Lista de Wiki
 
-  ## Personagens
+## Protagonista
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/Protagonista">Protagonista</a>
+
+## Sinopse geral
