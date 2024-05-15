@@ -27,3 +27,12 @@ Nenhum Leiame deve contar:
 - <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/Protagonista">Protagonista</a>
 
 ## Sinopse geral
+
+
+## Descrição das fases
+
+
+## Músicas
+
+
+## Referências
