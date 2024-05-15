@@ -31,7 +31,7 @@ Nenhum Leiame deve contar:
 
 ## Descrição das fases
 - <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/1-Fase">1 Fase</a>
-- <a hrerf="https://github.com/Amanda-Meneghin/470-Jogo/wiki/2-Fase">2 Fase</a>
+- <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/2-Fase">2 Fase</a>
 - <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/3-Fase">3 Fase</a>
 - <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/4-Fase">4 Fase</a>
 - <a href="https://github.com/Amanda-Meneghin/470-Jogo/wiki/5-Fase">5 Fase</a>
