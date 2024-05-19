@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Erick Gálvez
-- Arthur
+- Arthur Victor
 - Amanda Meneghin
 - Kauã de Castro
 
