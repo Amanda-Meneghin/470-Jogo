@@ -21,14 +21,14 @@ Nenhum Leiame deve contar:
 - Música(s) de referência. As músicas devem falar sobre São Paulo, ou ser de significado de artistas de São Paulo, ou ter relevância para a região da fase
 - Referências para o Jogo (filmes, séries, jogos, livros)
 
-## Fase 1 e 2
+### Fase 1 e 2
 As fases serão feitas pela dupla  de Amanda e Kauã de Castro.
 
-## Fases 3 e 4
+### Fases 3 e 4
 
 Será feita pela dupla de Erick e Arthur.
 
-## Fase 5
+### Fase 5
 
 Será feitas com ambas as duplas.
 
