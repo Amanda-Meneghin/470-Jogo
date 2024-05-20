@@ -26,7 +26,7 @@ As fases serão feitas pela dupla  de Amanda e Kauã de Castro.
 
 ### Fases 3 e 4
 
-Será feita pela dupla de Erick e Arthur.
+As fases serão feitas pela dupla de Erick e Arthur.
 
 ### Fase 5
 
