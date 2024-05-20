@@ -3,8 +3,8 @@
 ## Integrantes
 - Erick Gálvez
 - Arthur Victor
-- Amanda Meneghin
-- Kauã de Castro
+- Amanda Meneghin Pavarini
+- Kauã de Castro Barbara Fernades
 
 ## Descrição do trabalho
 Crie um repositório no git hub para o projeto, no repositório deverá conter os documentos e referências dos materiais principais do projeto, além dos scripts e assets compatíveis. Deverá ser utilizado um wiki para descrição e registro do desenvolvimento do projeto, sendo um único wiki por grupo.
