@@ -1,8 +1,8 @@
 # Projeto 470 anos SP
 
 ## Integrantes
-- Erick Gálvez
-- Arthur Victor
+- Erick Felipe Mendes Galvez
+- Arthur Victor Souza Mascate
 - Amanda Meneghin
 - Kauã de Castro
 
