@@ -22,11 +22,11 @@ Nenhum Leiame deve contar:
 - Referências para o Jogo (filmes, séries, jogos, livros)
 
 ### Fase 1 e 2
-As fases serão feitas pela dupla  de Amanda e Kauã de Castro.
+As fases serão feitas pela dupla  de Amanda e Kauã de Arthur.
 
 ### Fases 3 e 4
 
-As fases serão feitas pela dupla de Erick e Arthur.
+As fases serão feitas pela dupla de Erick e Kauã de Castro.
 
 ### Fase 5
 
