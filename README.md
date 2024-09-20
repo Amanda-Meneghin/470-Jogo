@@ -2,9 +2,9 @@
 
 ## Integrantes
 - Erick Felipe Mendes Galvez
+- Kauã de Castro Barbara Fernandes
 - Arthur Victor Souza Mascate
 - Amanda Meneghin Pavarini
-- Kauã de Castro Barbara Fernandes
 
 ## Descrição do trabalho
 Crie um repositório no git hub para o projeto, no repositório deverá conter os documentos e referências dos materiais principais do projeto, além dos scripts e assets compatíveis. Deverá ser utilizado um wiki para descrição e registro do desenvolvimento do projeto, sendo um único wiki por grupo.
@@ -22,26 +22,27 @@ Nenhum Leiame deve contar:
 - Referências para o Jogo (filmes, séries, jogos, livros)
 
 ### Fase 1
- Feita Por 
+Feita Por 
 - Kauã de Castro Barbara Fernandes
 - Amanda Meneghin Pavarini
 ### Fases 2
- Feita Por
+Feita Por
 - Arthur Victor Souza Mascate
 - Amanda Meneghin Pavarini 
 ### Fase 3
- Feita Por
+Feita Por
 - Arthur Victor Souza Mascate
 - Erick Felipe Mendes Galvez
-### Fase 4
+### Fase 
+Feita Por
 - Erick Felipe Mendes Galvez
 - Kauã de Castro Barbara Fernandes
 ### Fase 5 
 Feita Por
+- Kauã de Castro Barbara Fernandes
 - Erick Felipe Mendes Galvez
 - Arthur Victor Souza Mascate
 - Amanda Meneghin Pavarini
-- Kauã de Castro Barbara Fernandes
 
 # Lista de Wiki
 
