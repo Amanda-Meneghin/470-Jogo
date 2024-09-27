@@ -44,6 +44,12 @@ Feita Por
 - Arthur Victor Souza Mascate
 - Amanda Meneghin Pavarini
 
+# Jogo completo
+
+## Vídeo
+
+## Link do Drive
+
 # Lista de Wiki
 
 ## Protagonista
