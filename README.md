@@ -47,6 +47,7 @@ Feita Por
 # Jogo completo
 
 ## Vídeo
+- https://youtu.be/rkJt8D1Ui4w
 
 ## Link do Drive
 - https://drive.google.com/file/d/1VzTUwCafkIwuu58of_PtIx5CJyeYpetZ/view?usp=drive_link
